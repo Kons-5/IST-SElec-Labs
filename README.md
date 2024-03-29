@@ -4,7 +4,7 @@ This repository contains lab materials for the IST-SElec (Electronic Systems) co
 
 # Content
 
-## Lab 1: Amplifiers with Feedback
+## [Lab 1: Amplifiers with Feedback](selec_lab1_gr_64.pdf)
 
 This project focuses on studying the consequences of negative feedback in amplifiers, exploring configurations with and without feedback to illuminate the impacts on system behavior.
 
@@ -23,7 +23,7 @@ This project focuses on studying the consequences of negative feedback in amplif
 - Control over input and output resistances.
 - Bandwidth enhancement of amplifiers.
 
-## Lab 2: Proximity Detector Project
+## [Lab 2: Proximity Detector Project](selec_lab2_gr_64.pdf)
 
 Analyze a proximity detection system based on the principles similar to the Park-Aid circuit, which aids in vehicle parking by detecting nearby obstacles using sensors.
 
@@ -39,7 +39,7 @@ Analyze a proximity detection system based on the principles similar to the Park
 - Oscillators and their applications in generating periodic signals.
 - Analog filters, including active and passive filters for signal processing.
   
-## Lab 3: Embedded Systems Project: μOscilloscope
+## [Lab 3: Embedded Systems Project: μOscilloscope](selec_lab3_gr_64.pdf)
 
 The μOscilloscope project aims to design a small oscilloscope as an embedded system for IoT solutions development. The project encompasses understanding the hardware circuit, implementing oscilloscope software, debugging, optimizing, and calibrating the system.
 
